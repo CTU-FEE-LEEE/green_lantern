@@ -1,4 +1,4 @@
-===== Bioreaktor pro maloobjemové pěstování řas =====
+# Bioreaktor pro maloobjemové pěstování řas
 
 Jde o systém určený pro pěstování rostlin v umělých podmínkách. Ideou celého zařízení je návrh systému, který na rozdíl od současných řešení bude snadno replikovatelný v globálním měřítku.
 Proto je důležité aby měl tyto parametry: 
@@ -23,7 +23,7 @@ Fotobioreaktory pro pěstování řas mají celou řadu různých konstrukcí od
 
 Bioreaktor pro tento případ by zřejmě měl být tvořený [skleněnými trubicemi](https://www.kavalier.cz/trubice-sp1.html). Pro zvolenou aplikaci je zřejmě vhodné použít skleněné trubice, neboť vyžadují v porovnání s jinými materiály [méně náročnou údržbu](https://www.schott.com/english/news/press.html?NID=com4854). [Bubble column reactor](https://en.wikipedia.org/wiki/Bubble_column_reactor) Výhodou také je, že bublinky vzduchu bublají ze spodní části s vyšším tlakem do nižšího tlaku. Tím dochází k rovnoměrnějšímu rozložení hustoty rozpouštěných plynů. 
 
-==== Specifika ====
+## Specifika 
 
   * Je nutné kontrolovat koncentraci řas a stabilizovat jí na optimální úrovni odvedením části populace do sedimentační nádrže
   * Do živného roztoku musí být přiváděno CO2 probubláváním ze vzduchu.
